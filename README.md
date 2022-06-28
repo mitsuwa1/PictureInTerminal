@@ -1,5 +1,5 @@
 # PictureInTerminal
-Python-module for displaying an image via terminal.
+Python-module for displaying an image in terminal.
 
 ## Usage
 
